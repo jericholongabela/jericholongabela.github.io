@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jericholongabela.github.io/static/css/main.5fa3d4c8.css",
-    "main.js": "/jericholongabela.github.io/static/js/main.c928d1b2.js",
-    "static/js/787.fb771931.chunk.js": "/jericholongabela.github.io/static/js/787.fb771931.chunk.js",
+    "main.js": "/jericholongabela.github.io/static/js/main.6a2041c5.js",
+    "static/js/787.047f75c6.chunk.js": "/jericholongabela.github.io/static/js/787.047f75c6.chunk.js",
     "static/media/color-sharp2.png": "/jericholongabela.github.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/jericholongabela.github.io/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/CentraNo2-Bold.ttf": "/jericholongabela.github.io/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -27,11 +27,11 @@
     "index.html": "/jericholongabela.github.io/index.html",
     "static/media/nav-icon1.svg": "/jericholongabela.github.io/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.5fa3d4c8.css.map": "/jericholongabela.github.io/static/css/main.5fa3d4c8.css.map",
-    "main.c928d1b2.js.map": "/jericholongabela.github.io/static/js/main.c928d1b2.js.map",
-    "787.fb771931.chunk.js.map": "/jericholongabela.github.io/static/js/787.fb771931.chunk.js.map"
+    "main.6a2041c5.js.map": "/jericholongabela.github.io/static/js/main.6a2041c5.js.map",
+    "787.047f75c6.chunk.js.map": "/jericholongabela.github.io/static/js/787.047f75c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fa3d4c8.css",
-    "static/js/main.c928d1b2.js"
+    "static/js/main.6a2041c5.js"
   ]
 }
